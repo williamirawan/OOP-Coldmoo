@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/OneDrive - Bina Nusantara University/Documents/2022-06-18 Saturday_1_COMP6708001-Object Oriented Programming/mysql-connector-java-8.0.24.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
